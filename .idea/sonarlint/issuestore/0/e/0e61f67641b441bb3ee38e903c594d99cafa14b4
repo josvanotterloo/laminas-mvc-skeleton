@@ -1,0 +1,8 @@
+
+Zphp:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ý
+:	php:S2003"&Replace "include" with "include_once".(÷¤ß
+;	php:S2003$"&Replace "require" with "require_once".(˜öÖï
+;	php:S2003&"&Replace "require" with "require_once".(£»ÒÏ
+`	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(÷¤ß
+a	php:S4833$"LReplace "require" with namespace import mechanism through the "use" keyword.(˜öÖï
+a	php:S4833&"LReplace "require" with namespace import mechanism through the "use" keyword.(£»ÒÏ

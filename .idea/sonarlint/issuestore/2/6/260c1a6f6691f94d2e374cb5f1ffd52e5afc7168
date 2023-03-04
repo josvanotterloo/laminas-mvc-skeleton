@@ -1,0 +1,4 @@
+
+t	php:S1488"_Immediately return this expression instead of assigning it to the temporary variable "$config".(χώ₯ο
+;	php:S2003"&Replace "include" with "include_once".(χώ₯ο
+a	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(χώ₯ο
